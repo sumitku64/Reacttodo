@@ -1,7 +1,7 @@
 import AppName from "./components/AppName";
 import InputItems from "./components/InputItems";
 import Todoitem from "./components/Todoitem";
-import WelcomeMessage from "./components/Welcomemessage";
+import WelcomeMessage from "./components/WelcomeMessage";
 import { useState } from "react";
 import "./css/App.css";
 function App() {
