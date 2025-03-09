@@ -1,0 +1,30 @@
+h1 {
+   font-weight: 700;
+   font-size: 50px;
+   margin: 10px;
+   margin-bottom: 20px;
+}
+input{
+    width: 100%;
+}
+.items{
+    text-align: left;
+}
+.container-row{
+    margin: 7px 4px;
+}
+.button-container{
+    min-width: 72px;
+}
+.welcome{
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: 700
+}
+.todo-container{
+    width: 50%;
+    border: 3px solid #000;
+    border-radius: 5px;
+    margin: 20px;
+}
+   
